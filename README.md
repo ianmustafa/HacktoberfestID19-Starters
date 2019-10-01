@@ -13,7 +13,7 @@ Sebelum mengikuti, diharapkan teman-teman yang ingin berpartisipasi pastikan sud
 2. Buat _fork_ dari repositori ini ke akun GitHub teman-teman. Caranya dengan menekan tombol "Fork" di kanan atas halaman.
 3. Teman-teman akan diarahkan ke halaman repositori masing-masing yang sudah di-_fork_. Lakukan _clone_ repositori ke komputer masing-masing.
 4. Tambahkan nama dan tautan ke profil GitHub milik teman-teman ke [`CONTRIBUTORS.md`](CONTRIBUTORS.md). **Dimohon** untuk mengikuti format yang sesuai dengan yang sudah ada di sana.
-5. Lakukan _commit_ terhadap perubahan yang sudah teman-teman buat di `CONTRIBUTORS.md` dengan menggunakan perintah berikut. **Dimohon** untuk menggangi bagian `<nama masing-masing>` dengan nama masing-masing:
+5. Lakukan _commit_ terhadap perubahan yang sudah teman-teman buat di `CONTRIBUTORS.md` dengan menggunakan perintah berikut. **Dimohon** untuk mengganti bagian `<nama masing-masing>` dengan nama masing-masing:
    ```sh
    $ git commit -a -m "Kontribusi dari <nama masing-masing>"
    ```
