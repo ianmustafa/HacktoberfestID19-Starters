@@ -15,6 +15,7 @@
 * [Ian Mustafa](https://github.com/ianmustafa)
 * [Kevin Abrar Khansa](https://github.com/kevinaltaf)
 * [Muhammad Irwan Andriawan](https://github.com/andriawan)
+* [Muhammad Fajar Ramadhan](https://github.com/rajaf123)
 * [Norman Ramadhan](https://github.com/fuzztone313)
 * [Rifani Arsyad](https://github.com/fanioz)
 
