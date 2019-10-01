@@ -12,4 +12,5 @@
 * [Afif Arman](https://github.com/Armandos42)
 * [Hadi Hidayat Hammurabi](https://github.com/hadihammurabi)
 * [Norman Ramadhan](https://github.com/fuzztone313)
+* [Rifani Arsyad](https://github.com/fanioz)
 * [Muhammad Irwan Andriawan](https://github.com/andriawan)
