@@ -14,6 +14,8 @@
 * [Hadi Hidayat Hammurabi](https://github.com/hadihammurabi)
 * [Ian Mustafa](https://github.com/ianmustafa)
 * [Jovan Ferryal](https://github.com/jovanzers)
+* [Kevin Abrar Khansa](https://github.com/kevinaltaf)
 * [Muhammad Irwan Andriawan](https://github.com/andriawan)
 * [Norman Ramadhan](https://github.com/fuzztone313)
 * [Rifani Arsyad](https://github.com/fanioz)
+
