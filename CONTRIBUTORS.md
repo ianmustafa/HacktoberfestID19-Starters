@@ -11,3 +11,4 @@
 * [Ari Dwi Prayogo](https://github.com/aridwiprayogo)
 * [Afif Arman](https://github.com/Armandos42)
 * [Hadi Hidayat Hammurabi](https://github.com/hadihammurabi)
+* [Norman Ramadhan](https://github.com/fuzztone313)
