@@ -12,3 +12,4 @@
 * [Afif Arman](https://github.com/Armandos42)
 * [Hadi Hidayat Hammurabi](https://github.com/hadihammurabi)
 * [Norman Ramadhan](https://github.com/fuzztone313)
+* [Ginanjar S.B](https://github.com/egin10)
