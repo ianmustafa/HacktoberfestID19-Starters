@@ -7,10 +7,11 @@
 
 # Daftar Peserta Hacktoberfest ID 2019 for Starter
 
-* [Ian Mustafa](https://github.com/ianmustafa)
-* [Ari Dwi Prayogo](https://github.com/aridwiprayogo)
 * [Afif Arman](https://github.com/Armandos42)
+* [Alfian Hidayat](https://github.com/alfianguide)
+* [Ari Dwi Prayogo](https://github.com/aridwiprayogo)
 * [Hadi Hidayat Hammurabi](https://github.com/hadihammurabi)
+* [Ian Mustafa](https://github.com/ianmustafa)
 * [Norman Ramadhan](https://github.com/fuzztone313)
 * [Rifani Arsyad](https://github.com/fanioz)
 * [Muhammad Irwan Andriawan](https://github.com/andriawan)
