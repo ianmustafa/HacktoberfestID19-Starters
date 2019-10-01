@@ -7,13 +7,13 @@ Hacktoberfest adalah acara tahunan yand diadakan oleh [GitHub](https://github.co
 Repositori ini ditujukan bagi teman-teman dari Indonesia yang tahun ini baru pertama kali berpartisipasi dalam Hacktoberfest, sebagai tempat bagi teman-teman untuk mengirim _pull request_ perdana.
 
 ## Bagaimana Caranya?
-Sebelum mengikuti, diharapkan teman-teman yang ingin berpartisipasi pastikan sudah paham tentang perintah dasar Git, seperti `clone`, `commit` dan `push`, karena ini dibutuhkan dalam tahapan pengajuan _pull request_.
+Sebelum mengikuti, diharapkan teman-teman yang ingin berpartisipasi sudah paham tentang perintah dasar Git, seperti `clone`, `commit` dan `push`, karena ini dibutuhkan dalam tahapan pengajuan _pull request_.
 #### Langkah-langkah
 1. Pastikan teman-teman sudah mendaftar ke acara Hacktoberfest melalui [situs resmi acara](https://hacktoberfest.digitalocean.com/) menggunakan email yang menjadi akun GitHub masing-masing.
 2. Buat _fork_ dari repositori ini ke akun GitHub teman-teman. Caranya dengan menekan tombol "Fork" di kanan atas halaman.
 3. Teman-teman akan diarahkan ke halaman repositori masing-masing yang sudah di-_fork_. Lakukan _clone_ repositori ke komputer masing-masing.
-4. Tambahkan nama dan tautan ke profil GitHub milik teman-teman ke [`CONTRIBUTORS.md`](CONTRIBUTORS.md). **Dimohon** untuk mengikuti format yang sesuai dengan yang sudah ada di sana.
-5. Lakukan _commit_ terhadap perubahan yang sudah teman-teman buat di `CONTRIBUTORS.md` dengan menggunakan perintah berikut. **Dimohon** untuk memberi jarak (spasi) pada bagian `<nama masing-masing>`, seperti dibawah ini:
+4. Tambahkan nama dan tautan ke profil GitHub milik teman-teman ke [`CONTRIBUTORS.md`](CONTRIBUTORS.md). **Dimohon** untuk mengikuti format yang sesuai dengan yang sudah ada di sana
+5. Lakukan _commit_ terhadap perubahan yang sudah teman-teman buat di `CONTRIBUTORS.md` dengan menggunakan perintah berikut. **Dimohon** untuk mengganti bagian `<nama masing-masing>` dengan nama masing-masing:
    ```sh
    $ git commit -a -m "Kontribusi dari <nama masing-masing>"
    ```
