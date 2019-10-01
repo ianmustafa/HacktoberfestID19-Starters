@@ -20,4 +20,4 @@
 * [Muhammad Taufiq Sumadi](https://github.com/taufiqsumadi)
 * [Norman Ramadhan](https://github.com/fuzztone313)
 * [Rifani Arsyad](https://github.com/fanioz)
-
+* [Yoga Hermawan](https://github.com/yogahermawan)
