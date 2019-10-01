@@ -13,6 +13,7 @@
 * [Ginanjar S.B](https://github.com/egin10)
 * [Hadi Hidayat Hammurabi](https://github.com/hadihammurabi)
 * [Ian Mustafa](https://github.com/ianmustafa)
+* [Jovan Ferryal](https://github.com/jovanzers)
 * [Muhammad Irwan Andriawan](https://github.com/andriawan)
 * [Norman Ramadhan](https://github.com/fuzztone313)
 * [Rifani Arsyad](https://github.com/fanioz)
