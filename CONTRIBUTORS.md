@@ -9,3 +9,5 @@
 
 * [Ian Mustafa](https://github.com/ianmustafa)
 * [Ari Dwi Prayogo](https://github.com/aridwiprayogo)
+* [Afif Arman](https://github.com/Armandos42)
+* [Hadi Hidayat Hammurabi](https://github.com/hadihammurabi)
