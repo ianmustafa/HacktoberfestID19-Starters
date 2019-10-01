@@ -10,6 +10,7 @@
 * [Afif Arman](https://github.com/Armandos42)
 * [Alfian Hidayat](https://github.com/alfianguide)
 * [Ari Dwi Prayogo](https://github.com/aridwiprayogo)
+* [Junianto Endra Kartika](https://github.com/J3ndra)
 * [Ginanjar S.B](https://github.com/egin10)
 * [Hadi Hidayat Hammurabi](https://github.com/hadihammurabi)
 * [Ian Mustafa](https://github.com/ianmustafa)
