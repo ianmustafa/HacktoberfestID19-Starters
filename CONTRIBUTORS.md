@@ -8,4 +8,5 @@
 # Daftar Peserta Hacktoberfest ID 2019 for Starter
 
 * [Ian Mustafa](https://github.com/ianmustafa)
+* [Afif Arman](https://github.com/Armandos42)
 * [Hadi Hidayat Hammurabi](https://github.com/hadihammurabi)
