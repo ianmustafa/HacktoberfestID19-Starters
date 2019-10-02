@@ -25,3 +25,4 @@
 * [Yoga Hermawan](https://github.com/yogahermawan)
 * [Evan Nur](https://github.com/evannurr)
 * [Rico Fitra](https://github.com/Ricftrw)
+* [Ahmad Fauzan](https://github.com/fauzan264)
