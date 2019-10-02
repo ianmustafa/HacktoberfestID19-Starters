@@ -24,3 +24,4 @@
 * [Rifani Arsyad](https://github.com/fanioz)
 * [Yoga Hermawan](https://github.com/yogahermawan)
 * [Evan Nur](https://github.com/evannurr)
+* [Rico Fitra](https://github.com/Ricftrw)
