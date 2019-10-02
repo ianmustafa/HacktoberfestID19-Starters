@@ -12,6 +12,7 @@
 * [Alfian Hidayat](https://github.com/alfianguide)
 * [Ari Dwi Prayogo](https://github.com/aridwiprayogo)
 * [Azra Muhammad Bhaskarogra](https://github.com/mhmdbhsk)
+* [Elfin Sanjaya](https://github.com/elfinsanjaya12)
 * [Evan Nur](https://github.com/evannurr)
 * [Junianto Endra Kartika](https://github.com/J3ndra)
 * [Ginanjar S.B](https://github.com/egin10)
