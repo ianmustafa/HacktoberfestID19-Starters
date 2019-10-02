@@ -3,14 +3,16 @@
    ```md
    * [Nama masing-masing](https://github.com/namausergithubmasingmasing)
    ```
-2. Dianjurkan untuk menulis nama secara urut berdasarkan abjad; jika tidak memungkinkan, tidak apa.
+2. Diharapkan untuk menulis nama secara urut berdasarkan abjad.
 
 # Daftar Peserta Hacktoberfest ID 2019 for Starter
 
 * [Afif Arman](https://github.com/Armandos42)
+* [Ahmad Fauzan](https://github.com/fauzan264)
 * [Alfian Hidayat](https://github.com/alfianguide)
 * [Ari Dwi Prayogo](https://github.com/aridwiprayogo)
 * [Azra Muhammad Bhaskarogra](https://github.com/mhmdbhsk)
+* [Evan Nur](https://github.com/evannurr)
 * [Junianto Endra Kartika](https://github.com/J3ndra)
 * [Ginanjar S.B](https://github.com/egin10)
 * [Hadi Hidayat Hammurabi](https://github.com/hadihammurabi)
@@ -21,8 +23,6 @@
 * [Muhammad Irwan Andriawan](https://github.com/andriawan)
 * [Muhammad Taufiq Sumadi](https://github.com/taufiqsumadi)
 * [Norman Ramadhan](https://github.com/fuzztone313)
+* [Rico Fitra](https://github.com/Ricftrw)
 * [Rifani Arsyad](https://github.com/fanioz)
 * [Yoga Hermawan](https://github.com/yogahermawan)
-* [Evan Nur](https://github.com/evannurr)
-* [Rico Fitra](https://github.com/Ricftrw)
-* [Ahmad Fauzan](https://github.com/fauzan264)
