@@ -27,4 +27,5 @@
 * [Norman Ramadhan](https://github.com/fuzztone313)
 * [Rico Fitra](https://github.com/Ricftrw)
 * [Rifani Arsyad](https://github.com/fanioz)
+* [Wendy Liga](https://github.com/wendyliga)
 * [Yoga Hermawan](https://github.com/yogahermawan)
