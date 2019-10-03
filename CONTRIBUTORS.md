@@ -26,6 +26,7 @@
 * [Muhammad Irwan Andriawan](https://github.com/andriawan)
 * [Muhammad Taufiq Sumadi](https://github.com/taufiqsumadi)
 * [Norman Ramadhan](https://github.com/fuzztone313)
+* [Opportunis](https://github.com/opportunis)
 * [Rico Fitra](https://github.com/Ricftrw)
 * [Rifani Arsyad](https://github.com/fanioz)
 * [Wendy Liga](https://github.com/wendyliga)
