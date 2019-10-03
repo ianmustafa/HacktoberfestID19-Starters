@@ -3,7 +3,7 @@
 ## Tentang Hacktoberfest 2019
 [Hacktoberfest](https://hacktoberfest.digitalocean.com/faq) adalah acara tahunan yand diadakan oleh [GitHub](https://github.com/), [DigitalOcean](https://m.do.co/c/061ee06582b1) dan [DEV](https://dev.to) sebagai upaya mendorong tumbuhnya budaya berkontribusi ke komunitas sumber-terbuka. Tahun ini, 50,000 peserta pertama yang mampu membuat 4 _[pull request](https://help.github.com/en/articles/creating-a-pull-request)_ ke repositori sumber-terbuka yang dihosting di GitHub berhak mendapatkan kaos dan stiker gratis.
 
-## Tentang Hacktoberfest ID 2019 for Starters 
+## Tentang Hacktoberfest ID 2019 untuk Pemula
 Repositori ini ditujukan bagi teman-teman dari Indonesia yang tahun ini baru pertama kali berpartisipasi dalam Hacktoberfest, sebagai tempat bagi teman-teman untuk mengirim _pull request_ perdana.
 
 ## Bagaimana Caranya?
@@ -12,7 +12,7 @@ Sebelum mengikuti, diharapkan teman-teman yang ingin berpartisipasi sudah paham 
 1. Pastikan teman-teman sudah mendaftar ke acara Hacktoberfest melalui [situs resmi acara](https://hacktoberfest.digitalocean.com/) menggunakan email yang menjadi akun GitHub masing-masing.
 2. Buat _fork_ dari repositori ini ke akun GitHub teman-teman. Caranya dengan menekan tombol "Fork" di kanan atas halaman.
 3. Teman-teman akan diarahkan ke halaman repositori masing-masing yang sudah di-_fork_. Lakukan _clone_ repositori ke komputer masing-masing.
-4. Tambahkan nama dan tautan ke profil GitHub milik teman-teman ke [`CONTRIBUTORS.md`](CONTRIBUTORS.md). **Dimohon** untuk mengikuti format sesuai dengan yang sudah ada di sana
+4. Tambahkan nama dan tautan ke profil GitHub milik teman-teman ke [`CONTRIBUTORS.md`](CONTRIBUTORS.md). **Dimohon** untuk mengikuti format sesuai dengan yang sudah ada.
 5. Lakukan _commit_ terhadap perubahan yang sudah teman-teman buat di `CONTRIBUTORS.md` dengan menggunakan perintah berikut. **Dimohon** untuk mengganti bagian `<nama masing-masing>` dengan nama masing-masing:
    ```sh
    $ git commit -a -m "Kontribusi dari <nama masing-masing>"
@@ -30,4 +30,4 @@ Teman-teman bisa mengunjungi [halaman profil di situs resmi acara](https://hackt
 Teman-teman bisa menghubungi saya via Telegram [@ianmustafa](https://t.me/ianmustafa).
 
 ## Lisensi
-[MIT](LICENSE).
+HacktoberfestID19-Starters berada di bawah lisensi [MIT](LICENSE).
