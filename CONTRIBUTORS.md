@@ -24,6 +24,7 @@
 * [Muhammad Irwan Andriawan](https://github.com/andriawan)
 * [Muhammad Taufiq Sumadi](https://github.com/taufiqsumadi)
 * [Norman Ramadhan](https://github.com/fuzztone313)
+* [Paramitha](https://github.com/paramithatm)
 * [Rico Fitra](https://github.com/Ricftrw)
 * [Rifani Arsyad](https://github.com/fanioz)
 * [Yoga Hermawan](https://github.com/yogahermawan)
