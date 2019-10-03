@@ -21,6 +21,7 @@
 * [Jovan Ferryal](https://github.com/jovanzers)
 * [Kevin Abrar Khansa](https://github.com/kevinaltaf)
 * [Muhammad Fajar Ramadhan](https://github.com/rajaf123)
+* [Muhammad Fari Madyan](https://github.com/MuhammadFariMadyan)
 * [Muhammad Irwan Andriawan](https://github.com/andriawan)
 * [Muhammad Taufiq Sumadi](https://github.com/taufiqsumadi)
 * [Norman Ramadhan](https://github.com/fuzztone313)
