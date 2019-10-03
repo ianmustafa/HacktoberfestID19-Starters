@@ -30,4 +30,4 @@ Teman-teman bisa mengunjungi [halaman profil di situs resmi acara](https://hackt
 Teman-teman bisa menghubungi saya via Telegram [@ianmustafa](https://t.me/ianmustafa).
 
 ## Lisensi
-HacktoberfestID19-Starters berada di bawah lisensi [MIT](LICENSE).
+_Hacktoberfest ID 2019 untuk Pemula_ berada di bawah lisensi [MIT](LICENSE).
