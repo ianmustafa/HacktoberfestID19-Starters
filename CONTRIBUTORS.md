@@ -30,3 +30,4 @@
 * [Rifani Arsyad](https://github.com/fanioz)
 * [Wendy Liga](https://github.com/wendyliga)
 * [Yoga Hermawan](https://github.com/yogahermawan)
+* [Yusuf Adefolahan](https://github.com/sanxy)
