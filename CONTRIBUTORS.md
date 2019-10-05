@@ -5,7 +5,7 @@
    ```
 2. Diharapkan untuk menulis nama secara urut berdasarkan abjad.
 
-# Daftar Peserta Hacktoberfest ID 2019 untuk Pemula
+# Daftar Peserta Hacktoberfest ID 2019 for Starters
 
 * [Afif Arman](https://github.com/Armandos42)
 * [Ahmad Fauzan](https://github.com/fauzan264)
