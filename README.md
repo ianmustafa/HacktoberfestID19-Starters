@@ -3,7 +3,7 @@
 ## Tentang Hacktoberfest 2019
 [Hacktoberfest](https://hacktoberfest.digitalocean.com/faq) adalah acara tahunan yand diadakan oleh [GitHub](https://github.com/), [DigitalOcean](https://m.do.co/c/061ee06582b1) dan [DEV](https://dev.to) sebagai upaya mendorong tumbuhnya budaya berkontribusi ke komunitas sumber-terbuka. Tahun ini, 50,000 peserta pertama yang mampu membuat 4 _[pull request](https://help.github.com/en/articles/creating-a-pull-request)_ ke repositori sumber-terbuka yang dihosting di GitHub berhak mendapatkan kaos dan stiker gratis.
 
-## Tentang Hacktoberfest ID 2019 untuk Pemula
+## Tentang Hacktoberfest ID 2019 for Starters
 Repositori ini ditujukan bagi teman-teman dari Indonesia yang tahun ini baru pertama kali berpartisipasi dalam Hacktoberfest, sebagai tempat bagi teman-teman untuk mengirim _pull request_ perdana.
 
 ## Bagaimana Caranya?
