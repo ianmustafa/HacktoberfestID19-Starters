@@ -17,6 +17,11 @@ Sebelum mengikuti, diharapkan teman-teman yang ingin berpartisipasi sudah paham 
    ```sh
    $ git commit -a -m "Kontribusi dari <nama masing-masing>"
    ```
+   Contoh :
+    ```sh
+   $ git commit -a -m "Kontribusi dari Ian Mustafa"
+   ```
+  
 6. Lakukan _push_ hasil _commit_ diatas dengan menggunakan perintah berikut:
    ```sh
    $ git push origin master
