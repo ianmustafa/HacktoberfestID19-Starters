@@ -17,6 +17,7 @@
 * [Evan Nur](https://github.com/evannurr)
 * [Ginanjar S.B](https://github.com/egin10)
 * [Hadi Hidayat Hammurabi](https://github.com/hadihammurabi)
+* [Hate Chan](https://github.com/OgataKaede)
 * [Ian Mustafa](https://github.com/ianmustafa)
 * [Jovan Ferryal](https://github.com/jovanzers)
 * [Junianto Endra Kartika](https://github.com/J3ndra)
@@ -33,3 +34,4 @@
 * [Wendy Liga](https://github.com/wendyliga)
 * [Yoga Hermawan](https://github.com/yogahermawan)
 * [Yusuf Adefolahan](https://github.com/sanxy)
+
