@@ -29,6 +29,7 @@
 * [Paramitha](https://github.com/paramithatm)
 * [Rico Fitra](https://github.com/Ricftrw)
 * [Rifani Arsyad](https://github.com/fanioz)
+* [Rohmad Fajarudin](https://github.com/hizzely)
 * [Wahyu Nur Alan](https://github.com/NurAlan)
 * [Wendy Liga](https://github.com/wendyliga)
 * [Yoga Hermawan](https://github.com/yogahermawan)
