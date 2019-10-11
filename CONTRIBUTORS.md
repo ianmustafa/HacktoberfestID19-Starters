@@ -15,6 +15,7 @@
 * [Bagas Romansyah](https://github.com/bagasroman)
 * [Elfin Sanjaya](https://github.com/elfinsanjaya12)
 * [Evan Nur](https://github.com/evannurr)
+* [Ezra Lazuardy](https://github.com/ezralazuardy)
 * [Ginanjar S.B](https://github.com/egin10)
 * [Hadi Hidayat Hammurabi](https://github.com/hadihammurabi)
 * [Ian Mustafa](https://github.com/ianmustafa)
