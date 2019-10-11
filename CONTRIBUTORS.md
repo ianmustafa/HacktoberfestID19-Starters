@@ -21,6 +21,7 @@
 * [Jovan Ferryal](https://github.com/jovanzers)
 * [Junianto Endra Kartika](https://github.com/J3ndra)
 * [Kevin Abrar Khansa](https://github.com/kevinaltaf)
+* [Mamank Garox](https://github.com/mamank)
 * [Muhammad Fajar Ramadhan](https://github.com/rajaf123)
 * [Muhammad Fari Madyan](https://github.com/MuhammadFariMadyan)
 * [Muhammad Irwan Andriawan](https://github.com/andriawan)
