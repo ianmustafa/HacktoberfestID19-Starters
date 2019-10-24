@@ -9,6 +9,7 @@
 
 * [Afif Arman](https://github.com/Armandos42)
 * [Ahmad Fauzan](https://github.com/fauzan264)
+* [Ahmat Dani Setiawan](https://github.com/Maxxoto)
 * [Alfian Hidayat](https://github.com/alfianguide)
 * [Ari Dwi Prayogo](https://github.com/aridwiprayogo)
 * [Azra Muhammad Bhaskarogra](https://github.com/mhmdbhsk)
@@ -33,3 +34,4 @@
 * [Wendy Liga](https://github.com/wendyliga)
 * [Yoga Hermawan](https://github.com/yogahermawan)
 * [Yusuf Adefolahan](https://github.com/sanxy)
+
