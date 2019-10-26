@@ -27,6 +27,7 @@
 * [Muhammad Taufiq Sumadi](https://github.com/taufiqsumadi)
 * [Norman Ramadhan](https://github.com/fuzztone313)
 * [Paramitha](https://github.com/paramithatm)
+* [Rafi Firmansyah](https://github.com/rafifirmansyah)
 * [Rico Fitra](https://github.com/Ricftrw)
 * [Rifani Arsyad](https://github.com/fanioz)
 * [Wahyu Nur Alan](https://github.com/NurAlan)
